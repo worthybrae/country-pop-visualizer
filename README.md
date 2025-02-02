@@ -4,7 +4,7 @@ Here's a README file for your R project:
 
 # **Country Population Visualizer**
 
-![Ukraine Population Visualization](examples/ukraine.jpg)
+![Ukraine Population Visualization](https://portfolio-worthy.s3.us-east-1.amazonaws.com/ukraine.png)
 
 ## **Overview**
 
